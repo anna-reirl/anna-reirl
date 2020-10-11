@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Anna Agabekyan</h1>
+<h2 align="center">Hi <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif">, I'm Anna Agabekyan</h2>
+<p align="center">
 <h3 align="center">A Junior frontend developer from Russia</h3>
 
 
