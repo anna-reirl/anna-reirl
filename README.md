@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna Agabekyan</h1>
 <h3 align="center">I'm a full stack programmer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<p align="left">I develop user interfaces using modern technologies. I love what I do and am constantly developing in my business.</p>
 <p align="left">
 </p>
 
